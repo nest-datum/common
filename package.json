@@ -1,6 +1,6 @@
 {
   "name": "@nest-datum/common",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Common functions for the nest-studio framework",
   "author": "ihor-bielchenko",
   "license": "ISC",
